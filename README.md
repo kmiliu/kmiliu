@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Keming 👋
 
-<!--
-**kmiliu/kmiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate researcher at Wesleyan University working at the
+intersection of computational biology, machine learning, and neuroscience.
 
-Here are some ideas to get you started:
+My interests center on using computational models to understand biological
+systems — from neural dynamics and animal behavior to protein structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Work
+
+🧠 **Neural Dynamics**
+Signal-processing and computational analysis of neural activity
+
+🤖 **Machine Learning**
+Interpretable ML, deep learning, and reinforcement learning
+
+🧬 **Computational Biology**
+Protein modeling and computational mutagenesis
+
+### Currently
+- Computational modeling of p53 mutations
+- Explainable AI for creativity assessment
+- Deep learning & LLM course assistant
