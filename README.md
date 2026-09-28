@@ -8,14 +8,14 @@ systems — from neural dynamics and animal behavior to protein structure.
 
 ### Selected Work
 
-🧠 **Neural Dynamics**
-Signal-processing and computational analysis of neural activity
+**[Event-Aligned Neural Spike-Train Analysis](https://github.com/kmiliu/spike-train-analysis)** · MATLAB  
+Neural data analysis through event-aligned raster plots, PSTHs, and exploratory event-code ranking, with explicit assumptions for descriptive comparisons.
 
-🤖 **Machine Learning**
-Interpretable ML, deep learning, and reinforcement learning
+**[Mutation Sensitivity in Random Boolean Networks](https://github.com/kmiliu/kauffman-boolean-network)** · Python  
+Dynamical-systems simulation exploring how single-node rule mutations change attractors, with seeded experiments and documented uncertainty estimates.
 
-🧬 **Computational Biology**
-Protein modeling and computational mutagenesis
+**[Respiratory Sound Classification with a CNN–BiGRU](https://github.com/kmiliu/Cough-Classification-CRNN-Model)** · Keras  
+Machine learning evaluation combining acoustic features and numeric metadata, with reproducible checks of historical predictions and clearly stated evaluation limitations.
 
 ### Currently
 - Computational modeling of p53 mutations
